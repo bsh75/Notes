@@ -1,0 +1,1 @@
+Skills to develop: JavaScript, SQL, 3D file viewer
