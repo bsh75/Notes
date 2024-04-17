@@ -1,0 +1,22 @@
+# Page contains list of ideas for websites
+## Personal Website (Website)
+Link all personal data for single dashboard/homepage for operation of personal items such as banking, fitness, philosophy/insights, journaling, habits, books
+
+[*] Have different tiers of access for each one using a login based system
+> Projects *(open)*:  
+Previews and links to all the different websites and projects I have built with summaries.
+
+> Finance *(partial)*:  
+Dashboard showing all accounts and their performances over time.
+
+> Health *(open)*:  
+Dashboard showing long term trends in fitness data from watch  
+Habit tracker and 
+
+## Bike Builder
+Interactive bike building eccommerce website for highly customisable commuter bikes
+
+## Beug Builder
+Similar style to bike builder website, use existing onshape CAD models
+
+
