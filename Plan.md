@@ -6,8 +6,8 @@ Add to this list as I go..
 
 ## HTML/CSS
 - [x] Edit [Jank CSS](https://jankcss.com/) to practice CSS concepts
-- [ ] Refine personal website to sharpen skills while refering to [Zero-Hero](https://www.youtube.com/watch?v=70T2GMDKl6M&ab_channel=Smoljames) from Smoljames 
-- [ ] Learn Flexbox from Smoljames [Tutorial](https://www.youtube.com/watch?v=F5_nBy66LJs&ab_channel=Smoljames) 
+- [ ] Learn Flexbox from Smoljames [Tutorial](https://www.youtube.com/watch?v=F5_nBy66LJs&ab_channel=Smoljames)
+- [ ] Refine personal website to sharpen skills while refering to [Zero-Hero](https://www.youtube.com/watch?v=70T2GMDKl6M&ab_channel=Smoljames) from Smoljames
 - [ ] Learn 3D Interface integration
 
 ## JavaScript

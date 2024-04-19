@@ -2,6 +2,7 @@
 
 ## Website Inspirations
 [FutureDial](https://www.futuredial.com/)
+[Hyr Resume](https://www.hyr.sh/)
 
 ## Smoljames [Roadmap](https://smoljames.com/roadmap)
 
