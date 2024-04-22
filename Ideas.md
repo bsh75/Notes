@@ -2,6 +2,8 @@
 ## Personal Website (Website)
 Link all personal data for single dashboard/homepage for operation of personal items such as banking, fitness, philosophy/insights, journaling, habits, books
 
+> Would like a slider based summary/overview of each tab on the main page, thinking of its initial display being a snapshot of each somehow, could get complicated.
+
 [*] Have different tiers of access for each one using a login based system
 > Projects *(open)*:  
 Previews and links to all the different websites and projects I have built with summaries.
