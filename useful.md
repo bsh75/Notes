@@ -20,12 +20,21 @@ For a more detailed explaination see this interactive [Blog website](https://blo
 a b {} selects all b's in a's
 a, b {} selects both a and b  
 
+> [Tailwind](https://tailwindcss.com/)
+
+> Fonts  
+[Fontawesome Icons](https://fontawesome.com/icons)
 
 > Flexbox  
 [Cheatsheet](https://flexbox.malven.co/)
 
+> Colors  
+[Color Pallete](https://coolors.co/?fbclid=IwAR38Bbvidr05OWg5wwDNkfLtNV0IH-vLefYORFtI71CTPvrX-mFSSGLINbo)
 
 > Breakpoints for media queries  
 Small: 640px, Medium: 748px, large: 1024px  
 For more see [CSS God Tutorial](https://www.youtube.com/watch?v=c51RJtRFky4&ab_channel=Smoljames)  
 For practice see [Jank CSS](https://jankcss.com/)
+
+## Deployment [Netlify](https://app.netlify.com/teams/bsh75/overview)
+namecheap.com
