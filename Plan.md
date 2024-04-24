@@ -12,8 +12,10 @@ Add to this list as I go..
 - [ ] Learn 3D Interface integration
 
 ## JavaScript
-- [ ] Follow 60mins Smoljames [Tutorial](https://www.youtube.com/watch?v=qr6sKTzjlUo&ab_channel=Smoljames)
-- [ ] 
+- [x] Follow 60mins Smoljames [Basic 60min Javascript Tutorial](https://www.youtube.com/watch?v=qr6sKTzjlUo&ab_channel=Smoljames)
+- [ ] Complete Udemy course on JavaScript
+- [ ] Learn React.js
+- [ ] Learn other js libraries
 
 ## SQL
 - [ ] Go through introductory tutorial
