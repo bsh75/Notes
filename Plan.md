@@ -23,9 +23,9 @@ Add to this list as I go..
 
 ## 3D Interface
 > Beug Builders:
-> - [ ] Learn to display a simple CAD model on webpage
-> - [ ] Learn to change color of components
-> - [ ] Learn to toggle visibility of components
-> - [ ] Learn rendering  
+- [ ] Learn to display a simple CAD model on webpage
+- [ ] Learn to change color of components
+- [ ] Learn to toggle visibility of components
+- [ ] Learn rendering  
 - [ ] Research/experiment with different filetypes/sources
 
