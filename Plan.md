@@ -29,3 +29,6 @@ Add to this list as I go..
 - [ ] Learn rendering  
 - [ ] Research/experiment with different filetypes/sources
 
+## Figma
+- [ ] Familiarise 
+- [ ] Learn to export designs to code

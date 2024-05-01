@@ -38,3 +38,13 @@ For practice see [Jank CSS](https://jankcss.com/)
 
 ## Deployment [Netlify](https://app.netlify.com/teams/bsh75/overview)
 namecheap.com
+
+## JavaSript
+[Git Repo for Zero-Hero](https://github.com/jamezmca/the-complete-javascript-course)
+[Course Notes](https://smoljames.com/notes/javascript)
+
+## Confluence
+[Confluence](https://www.atlassian.com/software/confluence) can be a good project managment tool, should look at using when starting new projects especially for clients.
+
+## Figma
+[Figma](https://www.figma.com/) would be great to use to draft up a website (frontend), need to find out how to turn designs into code

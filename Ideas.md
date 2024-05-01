@@ -21,4 +21,7 @@ Interactive bike building eccommerce website for highly customisable commuter bi
 ## Beug Builder
 Similar style to bike builder website, use existing onshape CAD models
 
+## Bus Charter
+Need to speak to Wayne about what he wants, try draft requirements, use confluence and Figma to get started?
+
 
