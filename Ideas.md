@@ -4,6 +4,9 @@ Link all personal data for single dashboard/homepage for operation of personal i
 
 > Would like a slider based summary/overview of each tab on the main page, thinking of its initial display being a snapshot of each somehow, could get complicated.
 
+> Scheduling/Calender tab
+
+
 [*] Have different tiers of access for each one using a login based system
 > Projects *(open)*:  
 Previews and links to all the different websites and projects I have built with summaries.
