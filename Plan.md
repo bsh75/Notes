@@ -14,6 +14,8 @@ Add to this list as I go..
 ## JavaScript
 - [x] Follow 60mins Smoljames [Basic 60min Javascript Tutorial](https://www.youtube.com/watch?v=qr6sKTzjlUo&ab_channel=Smoljames)
 - [ ] Complete Udemy course on JavaScript
+- [x] Add show/hide function to slider in Personal Website
+- [ ] Add an API's to Personal Website to fetch google calender data, apple watch data, some finance data
 - [ ] Learn React.js
 - [ ] Learn other js libraries
 
@@ -31,4 +33,4 @@ Add to this list as I go..
 
 ## Figma
 - [ ] Familiarise 
-- [ ] Learn to export designs to code
+- [ ] Learn conversion of designs to code

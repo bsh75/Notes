@@ -5,6 +5,8 @@ Link all personal data for single dashboard/homepage for operation of personal i
 > Would like a slider based summary/overview of each tab on the main page, thinking of its initial display being a snapshot of each somehow, could get complicated.
 
 > Scheduling/Calender tab
+Use an API to fetch data from google or apple calender, and then make custom calender display  
+Maybe at a later stage add a POST API that allows for the modification of my calender (add items)
 
 
 [*] Have different tiers of access for each one using a login based system
