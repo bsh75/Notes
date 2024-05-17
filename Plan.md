@@ -8,14 +8,19 @@ Add to this list as I go..
 - [x] Edit [Jank CSS](https://jankcss.com/) to practice CSS concepts
 - [x] Learn Flexbox from Smoljames [Tutorial](https://www.youtube.com/watch?v=F5_nBy66LJs&ab_channel=Smoljames)
 - [x] Follow SUPREME Web-Portfolio [Tutorial](https://www.youtube.com/watch?v=aLb_fMGZQXI&feature=youtu.be)
-- [ ] Refine personal website to sharpen skills while refering to [Zero-Hero](https://www.youtube.com/watch?v=70T2GMDKl6M&ab_channel=Smoljames) from Smoljames
+- [x] Refine personal website to sharpen skills while refering to [Zero-Hero](https://www.youtube.com/watch?v=70T2GMDKl6M&ab_channel=Smoljames) from Smoljames
 - [ ] Learn 3D Interface integration
 
 ## JavaScript
 - [x] Follow 60mins Smoljames [Basic 60min Javascript Tutorial](https://www.youtube.com/watch?v=qr6sKTzjlUo&ab_channel=Smoljames)
 - [ ] Complete Udemy course on JavaScript
 - [x] Add show/hide function to slider in Personal Website
-- [ ] Add API's to Personal Website to fetch weather data, google calender data, apple watch data, some finance data
+- [ ] Inspect the elements involved in googles embedded calender and try replicate
+> Add API's to Personal Website to fetch:
+> - [x] weather data
+> - [ ] google calender data
+> - [ ] apple watch data 
+> - [ ]some finance data  
 - [ ] Learn React.js
 - [ ] Learn other js libraries
 
