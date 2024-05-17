@@ -34,3 +34,9 @@ Add to this list as I go..
 ## Figma
 - [ ] Familiarise 
 - [ ] Learn conversion of designs to code
+
+## Google Cloud
+- [ ] Learn how to access the APIs
+- [ ] Familirise with the dashboard and metrics
+- [ ] Gain badges in [Google skills](https://cloud.google.com/learn/training/credentials?hl=en) (Free for 30 days so prepare and allocate time for it, check if free $300 credit can be used for this)
+
