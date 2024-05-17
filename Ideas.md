@@ -11,7 +11,6 @@ Maybe at a later stage add a POST API that allows for the modification of my cal
 > Weather Widget
 Use an API to show the current weather conditions
 
-
 [*] Have different tiers of access for each one using a login based system
 > Projects *(open)*:  
 Previews and links to all the different websites and projects I have built with summaries.
@@ -32,4 +31,5 @@ Similar style to bike builder website, use existing onshape CAD models
 ## Bus Charter
 Need to speak to Wayne about what he wants, try draft requirements, use confluence and Figma to get started?
 
-
+## I am a robot
+Try integrate computer vision NN algorithms to test the effectiveness of the "I am not a robot" image selections
