@@ -15,7 +15,7 @@ Add to this list as I go..
 - [x] Follow 60mins Smoljames [Basic 60min Javascript Tutorial](https://www.youtube.com/watch?v=qr6sKTzjlUo&ab_channel=Smoljames)
 - [ ] Complete Udemy course on JavaScript
 - [x] Add show/hide function to slider in Personal Website
-- [ ] Add an API's to Personal Website to fetch google calender data, apple watch data, some finance data
+- [ ] Add API's to Personal Website to fetch weather data, google calender data, apple watch data, some finance data
 - [ ] Learn React.js
 - [ ] Learn other js libraries
 
@@ -36,7 +36,7 @@ Add to this list as I go..
 - [ ] Learn conversion of designs to code
 
 ## Google Cloud
-- [ ] Learn how to access the APIs
+- [ ] Learn how to access the APIs using OAuth
 - [ ] Familirise with the dashboard and metrics
 - [ ] Gain badges in [Google skills](https://cloud.google.com/learn/training/credentials?hl=en) (Free for 30 days so prepare and allocate time for it, check if free $300 credit can be used for this)
 
