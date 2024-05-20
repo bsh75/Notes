@@ -9,7 +9,7 @@ Use an API to fetch data from google or apple calender, and then make custom cal
 Maybe at a later stage add a POST API that allows for the modification of my calender (add items)
 
 > Weather Widget
-Use an API to show the current weather conditions
+Use an [API](https://openweathermap.org/api/one-call-3) to show the current weather conditions 
 
 [*] Have different tiers of access for each one using a login based system
 > Projects *(open)*:  
