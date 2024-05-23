@@ -22,6 +22,10 @@ Dashboard showing all accounts and their performances over time.
 Dashboard showing long term trends in fitness data from watch  
 Habit tracker and 
 
+> Philosophy *(open)*:
+Have book rankings with an object for each book containing type, rating, comments  
+Maybe have a form for any user to add a new book reccomendation (goes into new list?)
+
 ## Bike Builder
 Interactive bike building eccommerce website for highly customisable commuter bikes
 
