@@ -48,3 +48,7 @@ namecheap.com
 
 ## Figma
 [Figma](https://www.figma.com/) would be great to use to draft up a website (frontend), need to find out how to convert figma to code
+
+## Open Weather API
+[Weather API](https://openweathermap.org/api/one-call-3)
+APIKEY: 9e618688ddbe64c211c16dd2d2919dc4
