@@ -7,7 +7,8 @@
 ## Smoljames [Roadmap](https://smoljames.com/roadmap)
 
 ## Git 
-[Cheatsheet](git_cheatsheet.pdf) of git commands.
+[Cheatsheet](git_cheatsheet.pdf) of git commands.  
+add a .gitignore (containing .env) and a .env file (containing sensitive information such as API keys)
 
 ## Markdown 
 This [Cheatsheet](markdown_cheatsheet.pdf) contains a quick lookup for common markdown actions. 
@@ -52,3 +53,8 @@ namecheap.com
 ## Open Weather API
 [Weather API](https://openweathermap.org/api/one-call-3)
 APIKEY: 9e618688ddbe64c211c16dd2d2919dc4
+
+## NPM  
+npm init -y (initialises a package.json file)  
+can add a new script eg "dev": "node {filepath}"  (this will mean running npm run dev will run file)
+can add "type": "module" under main (this allows the file to included as a module)

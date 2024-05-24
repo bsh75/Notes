@@ -16,6 +16,7 @@ Use an [API](https://openweathermap.org/api/one-call-3) to show the current weat
 Previews and links to all the different websites and projects I have built with summaries.
 
 > Finance *(partial)*:  
+Link all stocks that I have money in and show some sort of display of their value over time (maybe just as percentage from time bought, rather than showing amount)  
 Dashboard showing all accounts and their performances over time.
 
 > Health *(open)*:  
